@@ -1,4 +1,5 @@
 # -D3.6-News-Portal Яковлев А. А. группа FPW-100
+(рекомендую открыть файл "команды Django.txt" для удобного чтения.)
 
 python manage.py shell
 from newsportal.models import * 			#импорт модулей
