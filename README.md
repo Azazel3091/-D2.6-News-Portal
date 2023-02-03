@@ -1,4 +1,4 @@
-# -D3.6-News-Portal Яковлев А. А. группа FPW-100
+# -D2.6-News-Portal Яковлев А. А. группа FPW-100
 (рекомендую открыть файл "команды Django.txt" для удобного чтения.)
 https://github.com/Azazel3091/-D3.6-News-Portal/blob/main/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%20Djando.txt
 
